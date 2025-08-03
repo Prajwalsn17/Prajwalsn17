@@ -14,6 +14,7 @@ I also run a YouTube channel – [**Electronic Buzz**](https://www.youtube.com/@
 - Writing clean, production-grade C/C++ firmware
 - Sharing knowledge on YouTube and GitHub to empower other makers and engineers
 
+---
 - ### Always Learning & Leveling Up
 
 I believe in continuously sharpening the saw. Here’s what I’m currently exploring and mastering:
