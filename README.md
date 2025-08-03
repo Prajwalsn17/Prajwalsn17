@@ -43,7 +43,7 @@ I believe in continuously sharpening the saw. Here’s what I’m currently expl
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Languages:** C, C++, Python, Embedded C  
 - **Microcontrollers:** ESP32, STM32, nRF52  
