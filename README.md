@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Prajwal Navalgi!
+# 👋 Hey there, I'm Prajwal Navalgai!
 
 **Embedded Software Engineer** | 📍 Bangalore, India  
 Focused on crafting scalable **IoT products** and high-performance **embedded firmware**.  
@@ -65,5 +65,5 @@ I believe in continuously sharpening the saw. Here’s what I’m currently expl
 
 ---
 
-> ⚡ _"Build. Debug. Repeat."_  
+>  _"Build. Debug. Repeat."_  
 
