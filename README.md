@@ -15,7 +15,7 @@ I also run a YouTube channel – [**Electronic Buzz**](https://www.youtube.com/@
 - Sharing knowledge on YouTube and GitHub to empower other makers and engineers
 
 ---
-- ### Always Learning & Leveling Up
+## Always Learning & Leveling Up
 
 I believe in continuously sharpening the saw. Here’s what I’m currently exploring and mastering:
 
